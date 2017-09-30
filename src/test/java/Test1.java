@@ -5,7 +5,7 @@ public class Test1 {
     @Test
     public void f1()
     {
-        Assert.assertTrue(1==1);
+        Assert.assertTrue(1==2);
     }
     @Test
     public void f2()
