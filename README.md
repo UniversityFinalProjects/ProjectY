@@ -1,13 +1,8 @@
 # ProjectY
 
-master branch:
-
-![development branch](https://travis-ci.org/UniversityFinalProjects/ProjectY.svg?branch=master)
-
 development branch:
 
-![development branch](https://travis-ci.org/UniversityFinalProjects/ProjectY.svg?branch=development)
-
+[![Build Status](https://travis-ci.org/UniversityFinalProjects/ProjectY.svg?branch=development)](https://travis-ci.org/UniversityFinalProjects/ProjectY)
 stav branch:
 
-![development branch](https://travis-ci.org/UniversityFinalProjects/ProjectY.svg?branch=stav)
+[![Build Status](https://travis-ci.org/UniversityFinalProjects/ProjectY.svg?branch=stav)](https://travis-ci.org/UniversityFinalProjects/ProjectY)
