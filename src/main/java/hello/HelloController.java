@@ -12,7 +12,7 @@ public class HelloController {
     @SneakyThrows
     public String index() {
         String hostname = InetAddress.getLocalHost().getHostName();
-        return "Hostname: "+hostname+ "!      Greetings from Spring Boot!";
+        return "Hostname: "+hostname+ "! Greetings from Spring Boot!";
     }
 
 }
