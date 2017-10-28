@@ -13,7 +13,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String home() throws UnknownHostException {
-        return "Hostname: "+InetAddress.getLocalHost().getHostName()+", Hello Docker World";
+        return "Hello Docker World";
     }
 
     public static void main(String[] args) {
