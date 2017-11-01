@@ -16,8 +16,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String home(){
-
-        return getMachineInfo() + ", Hello Docker World";
+        return getMachineInfo() + ", Docker Hub && Github && TravisCI";
     }
 
     private static String getMachineInfo(){
